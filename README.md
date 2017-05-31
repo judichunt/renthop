@@ -1,4 +1,6 @@
 # renthop
+https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+
 PYTHON3
 xgboost sklearn nltk
 
